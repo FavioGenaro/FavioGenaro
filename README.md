@@ -12,13 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Favio</h1></summary>
   </ul>
 </div>
+
+
+<!--<h2> About Me </h2>-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me</h2></summary>
+  </ul>
+</div>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨‍🎓 I'm currently a software engineering student.
+  
+- 🌱 I’m currently learning C#.
+  
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
