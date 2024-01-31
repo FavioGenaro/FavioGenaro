@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,html,css,js,react,redux,tailwind,materialui,ts,nodejs,vite,c,cpp,docker,express,figma,firebase,java,py,bash,linux,mongodb,mysql,vscode,visualstudio,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,html,css,js,react,redux,tailwind,materialui,ts,nodejs,vite,cpp,docker,express,figma,java,py,bash,linux,mongodb,mysql,vscode,visualstudio,postman&perline=14" />
   </a>
 </p>
