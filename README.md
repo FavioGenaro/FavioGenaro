@@ -19,6 +19,11 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
+<h3 align="center">
+  <a href="https://faviogenaro.github.io/" target="_blank">
+    Portfolio
+  </a>
+</h3>
 
 <!--<h2> About Me </h2>-->
 <div id="user-content-toc">
