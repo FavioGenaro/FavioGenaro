@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 <!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
 
-- 👨‍🎓 I'm currently a software engineering student.
+- 👨‍🎓 I'm a software engineering.
   
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# and Scala.
   
 
 
